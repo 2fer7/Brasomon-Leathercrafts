@@ -1,0 +1,19 @@
+#text-area {
+    border: black solid 1px;
+    margin-bottom: 10px;
+}
+#nav-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+#email_modal {
+    border: solid black 1px;
+}
+#password_modal {
+    border: solid black 1px;
+}
+#button-cart {
+    margin-left: 400px;
+}
